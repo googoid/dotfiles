@@ -1,0 +1,12 @@
+/*
+/*/
+!/.vimrc
+!/.tmux.conf
+!/.zshrc
+!/.config/termite/
+!/.config/i3/
+!/.config/i3blocks/
+!/.bin/
+!/.i3rc.sh
+!/.config/compton.conf
+!/.gitignore
